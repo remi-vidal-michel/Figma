@@ -3,6 +3,8 @@
 Ce projet consiste à développer une boutique en ligne en utilisant le logiciel Figma pour créer les maquettes.
 Le site sera également conçu pour être consultable sur des appareils mobiles, en utilisant des designs responsives.
 
+![figma](https://github.com/remi-vidal-michel/remi-vidal-michel/assets/114652963/352d167e-5d19-47f6-be8b-2a9c44d7e1a5)
+
 ## Maquettes
 
 Les maquettes seront créées pour les pages suivantes :
